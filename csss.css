@@ -1,0 +1,27 @@
+
+h1 {
+    color: darkred;
+    background-color: aqua;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+body {
+    background-color: rgba(7, 225, 225, 0.673);
+}
+
+ul {
+    font-size: xx-large;
+    color: black;
+    background-color: rgba(0, 0, 0, 0.578);
+    font-style: oblique;
+}
+img{
+    background-color: rgb(255, 0, 0);
+}
